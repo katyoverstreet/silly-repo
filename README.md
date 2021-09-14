@@ -1,1 +1,1 @@
-silly story generator
+silly story generator.
